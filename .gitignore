@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+gtfs.zip
+backup.sql
+.env
