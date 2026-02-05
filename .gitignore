@@ -1,5 +1,5 @@
 __pycache__/
 *.pyc
-gtfs.zip
+GTFSExport.zip
 backup.sql
 .env
